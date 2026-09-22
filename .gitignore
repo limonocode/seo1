@@ -1,5 +1,30 @@
 # https://git-scm.com/docs/gitignore
 # https://help.github.com/articles/ignoring-files
-# Example .gitignore files: https://github.com/github/gitignore
+
+# Dependencies
 /bower_components/
 /node_modules/
+
+# Secrets and local env — never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+secrets/
+credentials/
+*.secret
+
+# Private pack and client artifacts (live in seo1-private)
+seo1-private/
+private/
+clients/
+*.local.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
