@@ -1,0 +1,37 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+Copyright (c) 2026 limonocode / seo-skills-ru
+
+This work (documentation, checklists, playbooks, prompts, and skill files)
+is licensed under CC BY-NC-SA 4.0.
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+  - Attribution — You must give appropriate credit to
+    limonocode / seo-skills-ru, provide a link to the license, and
+    indicate if changes were made.
+  - NonCommercial — You may not use the material for commercial
+    purposes. White-label resale of this pack as an “agency OS”,
+    paid course, or client deliverable library is not permitted
+    without written permission from the authors.
+  - ShareAlike — If you remix, transform, or build upon the material,
+    you must distribute your contributions under the same license.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing
+anything the license permits.
+
+This is a human-readable summary, not a substitute for the license.
+Full legal code:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Deed:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Optional for future `scripts/` (executable code only, not docs):
+authors may dual-license new scripts under MIT. Until a file in
+`scripts/` states otherwise, all repository text remains CC BY-NC-SA 4.0.
+
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
